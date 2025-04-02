@@ -46,7 +46,7 @@ This **Password Generator Web App** is designed to create strong, customizable p
 
 ## Demo Video
 
-A video demonstration of the Weather App’s functionality can be found below:
+A video demonstration of the Password Generator Web App's functionality can be found below:
 
 [PasswordGeneratorWorking.webm](https://github.com/user-attachments/assets/1f4d24f6-4a84-477a-bc2f-f5dda7a295c3)
 
